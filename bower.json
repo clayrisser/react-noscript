@@ -1,0 +1,29 @@
+{
+  "name": "react-noscript",
+  "version": "0.0.0",
+  "description": "React NoScript",
+  "main": "dist/react-noscript.min.js",
+  "homepage": "https://github.com/jamrizzi/react-noscript",
+  "authors": [
+    "Jam Risser"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
