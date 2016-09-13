@@ -2,7 +2,7 @@
 
 Nest HTML tags under the <noscript> tag in React
 
-The HTML &ls;noscript&gt; tag lets you to display a custom message when a clients browser does not support JavaScript. However, when you nest HTML tags under the &ls;noscript&gt; tag in React, it creates the following error.
+The HTML &lt;noscript&gt; tag lets you to display a custom message when a clients browser does not support JavaScript. However, when you nest HTML tags under the &lt;noscript&gt; tag in React, it creates the following error.
 
 ```
 Uncaught Error: Invariant Violation
