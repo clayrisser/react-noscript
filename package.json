@@ -1,6 +1,6 @@
 {
   "name": "react-noscript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React NoScript",
   "main": "lib/ReactNoScript.js",
   "author": "Jam Risser",
